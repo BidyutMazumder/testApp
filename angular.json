@@ -26,7 +26,8 @@
                 "input": "public"
                 
               },
-              "src/assets"
+              "src/assets",
+              "src/assets/users"
             ],
             "styles": [
               "src/styles.css"
